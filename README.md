@@ -1,5 +1,7 @@
 # Blood Bank Management System
 
+![welcomePage](https://github.com/user-attachments/assets/b37cc7f2-5581-4478-89a7-92dd34767414)
+
 ## Project Overview
 
 The **Blood Bank Management System** is designed to streamline the management of blood donor, recipient, and blood stock information. This system replaces the manual, paper-based record-keeping approach, providing an efficient and secure way for blood banks to manage their data digitally.
