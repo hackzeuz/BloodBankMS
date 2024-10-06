@@ -1,6 +1,6 @@
 # Blood Bank Management System
+![welcomePage](https://github.com/user-attachments/assets/6d251fb3-3461-4803-8276-58e994c69422)
 
-![welcomePage](https://github.com/user-attachments/assets/b37cc7f2-5581-4478-89a7-92dd34767414)
 
 ## Project Overview
 
